@@ -3,7 +3,7 @@
 #
 
 # package-name==package-version
-Flask==0.12.2
+Flask==0.12.3
 SQLAlchemy==1.1.15
 alembic==0.9.6
 Flask-SQLAlchemy==2.3.2
